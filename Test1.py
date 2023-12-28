@@ -6,4 +6,4 @@ for i in per_cent.values():
     list.append(a)
 print(list)
 max_money = max(list)
-print('Максимальная сумма депозита: ', max_money)
+print('Максимальная сумма, которую вы можете заработать — депозит', max_money)
